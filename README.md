@@ -1,5 +1,8 @@
 # 📚 Amazon Book Reviews Analysis
 
+> [!NOTE]
+> This project was developed as a term project for the **Big Data Analytics** course at Istanbul Technical University (ITU) together with [Deniz Topal](https://github.com/Deniztpl) and Enes Karabulut.
+
 A large-scale data engineering and natural language processing (NLP) project designed to analyze Amazon book reviews using **Apache Spark (PySpark)** and **Spark NLP**.
 
 This project supports both **local execution** (for testing on sampled subsets) and **cloud cluster execution** (utilizing GCP Dataproc, GCS, and HDFS for distributed computing).
